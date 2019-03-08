@@ -5,3 +5,5 @@
 ## Editing the radar
 
 Create a new branch for your change(s), then open a pull request and ask someone with admin permissions to review/merge it.
+
+Please retain the order of the `ring` items in the columns: `adopt`, `trial`, `assess`, `hold` otherwise the radar will render the rings in the wrong order.
