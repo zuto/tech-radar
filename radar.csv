@@ -146,7 +146,6 @@ Cloudwatch,adopt,tools,TRUE,
 Elasticsearch,adopt,tools,TRUE,
 ELK,adopt,tools,TRUE,
 Google Analytics,adopt,tools,TRUE,
-Google Optimize,adopt,tools,TRUE
 Git,adopt,tools,TRUE,
 Github,adopt,tools,TRUE,
 GoCD,adopt,tools,TRUE,
@@ -192,4 +191,5 @@ Nexus,hold,tools,TRUE,
 Skype,hold,tools,TRUE,
 Sonar,hold,tools,TRUE,
 VSCode,hold,tools,TRUE,
+
 WebdriverIO,hold,tools,TRUE,
